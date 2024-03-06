@@ -1,7 +1,7 @@
 from django.contrib import admin
 from . import models
 
-@admin.register(models.Mind)
+@admin.register(models.Mind, models.Color, models.Shape)
 class ItemAdmin(admin.ModelAdmin):
 
     pass

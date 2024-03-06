@@ -8,13 +8,13 @@
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "보호받는 마음"
+      "name": "성관념"
     }
   },
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "안정감"
+      "name": "보호받는 마음"
     }
   },
   {
@@ -26,19 +26,13 @@
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "아름다움"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
       "name": "열등이"
     }
   },
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "강인함"
+      "name": "살기"
     }
   },
   {
@@ -50,25 +44,7 @@
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "정신 차리게 하는 에너지"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "호통"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "결단력"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "시원함"
+      "name": "아름다움"
     }
   },
   {
@@ -86,12 +62,6 @@
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "집중력"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
       "name": "집착"
     }
   },
@@ -99,12 +69,6 @@
     "model": "pictures.mind",
     "fields": {
       "name": "공주가 되고싶은 마음"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "우울함"
     }
   },
   {
@@ -122,31 +86,19 @@
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "청량함"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
       "name": "풍요"
     }
   },
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "고급스러움"
+      "name": "결단력"
     }
   },
   {
     "model": "pictures.mind",
     "fields": {
       "name": "자유"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "수치"
     }
   },
   {
@@ -164,19 +116,7 @@
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "지배"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "해학"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "시원함"
+      "name": "결기"
     }
   },
   {
@@ -188,73 +128,43 @@
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "품격"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
       "name": "아픔"
     }
   },
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "정열"
+      "name": "뺏고 뺏기는 마음"
     }
   },
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "성관념"
+      "name": "여자의 한"
     }
   },
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "유혹"
+      "name": "암치유"
     }
   },
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "뺏뺏마"
+      "name": "대인공포"
     }
   },
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "살기"
+      "name": "기적"
     }
   },
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "결기"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "버림받은 아픔"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "치유"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "가해자"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "두려움"
+      "name": "권위"
     }
   },
   {
@@ -266,7 +176,67 @@
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "사랑받고 싶은 마음"
+      "name": "죽음"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "유혹"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "지혜"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "미움받은 아픔"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "짓밟힌 아픔"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "재미있는 마음"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "두려움"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "자유로움"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "버림받은 아픔"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "애쓰는 마음"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "변태성욕"
     }
   },
   {
@@ -278,55 +248,25 @@
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "욕망"
+      "name": "행운"
     }
   },
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "즐거움"
+      "name": "기상"
     }
   },
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "풍요"
+      "name": "잔인성"
     }
   },
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "풍요"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "활력"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "치유"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "즐거움"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "상큼함"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "기적"
+      "name": "청량감"
     }
   },
   {
@@ -344,49 +284,7 @@
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "편안함"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "품격"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "생명력"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "강인함"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "화려함"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "가난의 아픔"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "시원함"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "정열"
+      "name": "꿈"
     }
   },
   {
@@ -398,7 +296,7 @@
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "희망"
+      "name": "귀여움"
     }
   },
   {
@@ -410,145 +308,13 @@
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "기원"
+      "name": "악마"
     }
   },
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "악마의 마음"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "동심의 세계"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "고귀함"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "귀족적"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "품위"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "마음의 안정"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "기적"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "용기"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "자신감"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "의식의 고양"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "기적"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "희망"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "풍요"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "긍정적"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "열정"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "활력충전"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "상큼함"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "기분전환"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "의식 확장"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "의식의 고양"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "꿈과 희망"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "안정감"
-    }
-  },
-  {
-    "model": "pictures.mind",
-    "fields": {
-      "name": "즐거움"
+      "name": "품격"
     }
   },
   {
@@ -560,7 +326,19 @@
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "사모함"
+      "name": "상큼함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "안정감"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "생동감"
     }
   },
   {
@@ -572,25 +350,775 @@
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "지극함"
+      "name": "재미"
     }
   },
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "본래를 향한 사랑"
+      "name": "우울증"
     }
   },
   {
     "model": "pictures.mind",
     "fields": {
-      "name": "열정적"
+      "name": "골난 마음"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "울분"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "낮잠"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "동화적"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "돈을 부르는 그림"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "화사함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "선물을 주고 싶은 마음"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "나는 누구인가"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "구원"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "삶의 고단함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "동심"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "색체의 아름다움"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "놀람"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "고풍스러움"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "아련함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "화려함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "고귀함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "쓸쓸함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "답답함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "색체 테라피"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "황혼"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "구업"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "삶"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "침묵"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "수치"
     }
   },
   {
     "model": "pictures.mind",
     "fields": {
       "name": "치유"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "깨달음"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "에고의 세상"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "인생"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "근심"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "활기"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "그리움"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "꽃의 마음"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "가난의 아픔"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "우울함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "시원함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "관찰"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "허상"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "청량함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "순수함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "도약"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "편안함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "각성"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "광폭함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "잔소리"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "약자"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "천도"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "무병장수"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "시련"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "장난꾸러기"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "달콤함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "몽환적"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "약자의 아픔"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "소중함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "동양화"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "추억"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "강인함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "산림욕"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "생존 본능"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "여유"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "태아의 아픔"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "복"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "혜라의 정신"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "영체님의 사랑"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "순진무구"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "슬픔"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "식복"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "에고를 죽이는 칼"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "코로나"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "우울증 치료"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "오만함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "예술가"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "연애관념"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "순결"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "전투 준비"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "평화"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "식사"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "자화상"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "책임"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "환상적"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "역경"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "생존력"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "존재의 아픔"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "낙태"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "성욕"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "향수"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "마음쇼"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "로맨틱"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "성열등이"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "황홀함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "뺏뺏마"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "허무함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "아버지의 아픔"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "거세공포"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "장애인의 아픔"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "이해받지 못한 아픔"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "부귀"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "거부감"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "평정심"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "섹시함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "성수치"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "로맨틱한 감성"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "여자가 되고 싶은 마음"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "사랑주는 마음"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "정력"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "순수성"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "열등이의 아픔"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "잔인성의 살기"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "스타의 아픔"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "신비"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "동화같은 세상"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "인자함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "우아함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "애증"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "죽고싶은 마음"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "탄생"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "냉정함"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "영성의 눈"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "헌신"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "빼앗긴 여자"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "영체님의 자식"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "남성성"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "교감"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "뜨거운 사랑"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "의식의 세상"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "상생"
+    }
+  },
+  {
+    "model": "pictures.mind",
+    "fields": {
+      "name": "여자"
     }
   }
 ]
